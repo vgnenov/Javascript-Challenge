@@ -1,0 +1,59 @@
+Java Section 14 Overview
+
+1.1 
+Script inside vs outside of HTML
+
+1.2
+JavaScript Code linked to HTML
+Conditional Checks in JavaScript linked to HTML
+
+1.3
+Loan Approver and range 'if, else if, else' statements
+
+1.4
+Arrays (lists) and how to list items, append (add/push) new items
+slice, join, console log etc
+
+1.5
+Loops
+
+1.6
+For loops and arrays for categorizing movies by score
+If statements included
+
+1.7
+Addition, list loop functions and built in decimal functions
+
+1.8
+Mean, Variance and Standard Deviation formulas
+
+2.1
+Looping through string arrays - forEach function 
+
+2.2
+forEach function applied to movie excercise from section 1
+
+2.3
+Value look up, addition, deletion etc 
+
+2.4
+String to array, object to hold word frequency, iteration through array
+
+2.5
+.map
+
+2.6
+Arrow function, dropping curly braces, dropping 'return' keyword
+
+2.7
+Object, keys and values iterations
+
+2.8
+Empty arrays, Iterations through objects, keys and values ending if 'if' statements
+BONUS: Map and Arrow functions exercise
+
+2.9
+Filter Function
+
+2.10
+Creating custom functions 
