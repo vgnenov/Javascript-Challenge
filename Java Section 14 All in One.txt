@@ -56,4 +56,9 @@ BONUS: Map and Arrow functions exercise
 Filter Function
 
 2.10
-Creating custom functions 
+Creating custom functions in combination with filter function
+
+2.11 
+Bootstrap HTML etc
+
+3.1
