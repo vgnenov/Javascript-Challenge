@@ -4,15 +4,15 @@ var tableData = data;
 const tbody= d3.select('tbody');
 //build table
 
-// function buildTable(data){
-//     tbody.html("");
-//     data.forEach((item) => {
-//         var newRow=tbody.append('tr');
-//         Object.values(item).forEach((val)=> {
-//             newRow.append('td').text(val)
-//         });
-//     });
-// };
+function buildTable(data){
+    tbody.html("");
+    data.forEach((item) => {
+        var newRow=tbody.append('tr');
+        Object.values(item).forEach((val)=> {
+            newRow.append('td').text(val)
+        });
+    });
+};
 
 function handleClick() {
     const date=d3.select("#datetime").property("value");
@@ -67,7 +67,7 @@ function buildTable(data){
 d3.selectAll("#filter-btn").on('click', handleClick);
 
 
-// buildTable(tableData);
+buildTable(tableData);
 
 
 
@@ -75,7 +75,7 @@ d3.selectAll("#filter-btn").on('click', handleClick);
 
 
 
-// Event Listeners
+// // Event Listeners
 // var button = d3.select("#filter-btn");
 // var form = d3.select("form");
 // button.on("click", runEnter);
