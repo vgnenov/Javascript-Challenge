@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-![Screenshot](Screenshots/nasa.jpg "Screenshot")
+![Screenshot](/static/Screenshots/nasa.jpg "Screenshot")
 
 ## Project Purpose
 
