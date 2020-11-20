@@ -15,3 +15,13 @@ Create a dynamic table based upon UFO sightings dataset that will enable users t
 - Using the JavaScript to write code that appends a table to the web page 
   and then adds new rows of data for each UFO sighting
     - Sample Code Snippet ![Screenshot](Instructions/Project_Screenshots/java.JPG "Screenshot")
+
+### Step 3 - Incorporating Date Form in HTML with JavaScript
+- Function will listen for events and search through the date/time column to 
+  find rows that match user input
+
+## Results
+
+### UFO Search Landing Page
+![Screenshot](Instructions/Project_Screenshots/htmlpage.JPG "Screenshot")
+
