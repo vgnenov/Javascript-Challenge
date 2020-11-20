@@ -23,5 +23,5 @@ Create a dynamic table based upon UFO sightings dataset that will enable users t
 ## Results
 
 ### UFO Search Landing Page
-![Screenshot](Instructions/Project_Screenshots/htmlpage.JPG "Screenshot")
+![Screenshot](Instructions/Project_Screenshots/landingpage.JPG "Screenshot")
 
