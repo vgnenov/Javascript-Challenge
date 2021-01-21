@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-![Screenshot](Instructions/static/Screenshots/nasa.jpg "Screenshot")
+![Screenshot](docs/static/Screenshots/nasa.jpg "Screenshot")
 
 ## Project Purpose
 
@@ -9,12 +9,12 @@ Create a dynamic table based upon UFO sightings dataset that will enable users t
 ## Process - Automatic Table and Date Search
 
 ### Step 1 - Creating our own HTML webpage
-- Code Snippet from HTML Page ![Screenshot](Instructions/Project_Screenshots/htmlpage.JPG "Screenshot")
+- Code Snippet from HTML Page ![Screenshot](docs/Project_Screenshots/htmlpage.JPG "Screenshot")
 
 ### Step 2 - Writing JavaScript Code to Append Table
 - Using the JavaScript to write code that appends a table to the web page 
   and then adds new rows of data for each UFO sighting
-    - Sample Code Snippet ![Screenshot](Instructions/Project_Screenshots/java.JPG "Screenshot")
+    - Sample Code Snippet ![Screenshot](docs/Project_Screenshots/java.JPG "Screenshot")
 
 ### Step 3 - Incorporating Date Form in HTML with JavaScript
 - Function will listen for events and search through the date/time column to 
@@ -23,8 +23,8 @@ Create a dynamic table based upon UFO sightings dataset that will enable users t
 ## Results
 
 ### UFO Search Landing Page
-![Screenshot](Instructions/Project_Screenshots/landingpage.JPG "Screenshot")
+![Screenshot](docs/Project_Screenshots/landingpage.JPG "Screenshot")
 
 ### Table Filter by Date
-![Screenshot](Instructions/Project_Screenshots/filtertable.JPG "Screenshot")
+![Screenshot](docs/Project_Screenshots/filtertable.JPG "Screenshot")
 
